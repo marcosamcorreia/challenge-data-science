@@ -6,7 +6,7 @@
  * A Loja1 é a que mais lucra, seguido de Loja2, Loja3 e por fim a Loja4 com o menor lucro de vendas.
  ![Faturamento das lojas](/faturamento_lojas.png)
 
- * Diante as médias de vendas por categorias, a Loja4 é a unica abaixo da média.
+ * Diante as médias de vendas por categorias, a Loja4 é a unica loja abaixo da média.
  ![Vendas por Categorias](/vendas_por_categorias.png)
 
  * A Loja1 e Loja4 têm avaliações muito próximas, porém ambas abaixo da Loja2 e Loja3.
@@ -21,6 +21,7 @@
 ## Considerações finais:
   Durante a análise do desempenho das lojas, percebe-se que a Loja2 e Loja3 mantém uma posição mediana na maioria das análises.
 
-  A Loja1 e Loja4 variam bastante no desempenho, uma vez em primeiro e outra em último, o que afeta negativamente devido à inconsistência geral. No entando a Loja1 vende e lucra mais que a Loja4.
+  A Loja1 e Loja4 variam bastante no desempenho, uma vez em primeiro e outra em último, o que afeta negativamente devido à inconsistência geral. No entanto a Loja1 vende e lucra mais que a Loja4.
 
-  Com base nos dados e considerando o lucro como fator essencial a recomenda-se a Loja4, pois lucra menos e oscila muito na sua pontuação por tópicos.
+  Com base nos dados e considerando o lucro como fator essencial, recomenda-se a Loja4, pois lucra menos e oscila muito na sua pontuação por tópicos.
+
